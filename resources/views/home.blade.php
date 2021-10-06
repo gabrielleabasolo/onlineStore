@@ -6,7 +6,12 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <title>Document</title>
 </head>
-<body>
-    <h1>Hello World</h1>
+<body class="bg-blue-500">
+    <div class="flex justify-end bg-blue-400">
+        <h1 class="px-5 text-white">Hello</h1>
+        <h1 class="px-5 text-white">Hello</h1>
+        <h1 class="px-5 text-white">Hello</h1>
+        
+    </div>
 </body>
 </html>
