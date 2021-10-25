@@ -12,7 +12,7 @@
             <img src="{{ asset('../../Kaye Pics/217394586_563290608018597_42811394312429586_n.jpg') }}" alt="" 
             class="ml-10 w-96">
         </div>
-        <div class="flex-1 w-2/5 border-2 border-black">
+        <div class="flex-1 border-2 border-black">
             <H1 class="mb-2 text-xl font-bold text-center text-pink-500">Happy Anniversary!</H1>
             <h2 >
             Surprise!! well not actually since you know this is coming na lol pero yeah hope you liked it! 😁😁
