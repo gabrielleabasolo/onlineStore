@@ -22,7 +22,7 @@
             <a href="#" class="hover:text-pink-400">Hi Babe!!</a>
         </div>
     </div>
-    
+
     {{-- Hero --}}
     <div class="justify-between px-10 py-20 text-pink-600 bg-red-200 md:flex">
         <div class="mb-10 md:w-1/2 md:mb-0 ">
@@ -61,7 +61,7 @@
     {{-- footer --}}
     <div class="flex-row text-center bg-pink-600">
         <div class="p-3">
-            <H1 class="">Wishing you enjoyed this website I made you</H1>
+            <H1 class="">Wishing yasdkpjadouhawwid</H1>
         </div>
         <div></div>
     </div>
