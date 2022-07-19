@@ -61,7 +61,7 @@
     {{-- footer --}}
     <div class="flex-row text-center bg-pink-600">
         <div class="p-3">
-            <H1 class="">Wishing yasdkpjadouhawwid</H1>
+            <H1 class="">Wishing you enjoyed this website I made you</H1>
         </div>
         <div></div>
     </div>
